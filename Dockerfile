@@ -1,4 +1,4 @@
-FROM ruby:3.0.4
+FROM ruby:3.4.3
 
 ENV APP_HOME /app
 RUN mkdir -p $APP_HOME
