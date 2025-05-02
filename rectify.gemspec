@@ -12,7 +12,6 @@ Gem::Specification.new do |s|
   s.license       = "MIT"
   s.require_paths = ["lib"]
   s.required_ruby_version = ">= 3.0.0"
-
   s.add_dependency "activemodel",   ">= 7.0.3"
   s.add_dependency "activerecord",  ">= 7.0.3"
   s.add_dependency "activesupport", ">= 7.0.3"
